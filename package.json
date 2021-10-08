@@ -1,8 +1,8 @@
 {
   "name": "jsasync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility library to handle multiple async calls like mapping an array and doing something async with each element.",
-  "main": "dist/index.ts",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "start": "ts-node-dev index.ts",
